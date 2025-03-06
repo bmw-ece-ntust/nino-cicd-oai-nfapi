@@ -1,3 +1,6 @@
 [submodule "bmw-jenkins-build-patches"]
 	path = bmw-jenkins-build-patches
 	url = https://github.com/motangpuar/bmw-jenkins-build-patches.git
+[submodule "bmw-cicd-manifests"]
+	path = bmw-cicd-manifests
+	url = https://github.com/motangpuar/bmw-cicd-manifests
